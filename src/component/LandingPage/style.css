@@ -1,0 +1,12 @@
+.landingContainer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    .landingContainer {
+        justify-content: center;
+    }
+}

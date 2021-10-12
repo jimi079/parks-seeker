@@ -1,0 +1,30 @@
+.listContainer {
+    margin-top: 30px;
+}
+
+.parkCardImage {
+    height: 180px;
+}
+
+.Accordion {
+    border: 0px solid white;
+}
+
+.AccordionHeading {
+    fontSize: 20;
+    flexBasis: '33.33%';
+    flexShrink: 0;
+}
+
+.AccordionScrollContainer {
+    display: flex;
+    overflow-x: auto;
+}
+
+.Chip {
+    margin: 10px;
+}
+
+.main {
+    margin: 5px;
+}
